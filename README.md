@@ -1,4 +1,4 @@
-# 🎵 SoundWave — Premium Spotify Web Player Clone
+#  SoundWave — Premium Spotify Web Player Clone
 
 ![SoundWave Preview](./public/preview.png)
 
@@ -6,7 +6,7 @@
 
 ---
 
-## ✨ Features
+##  Features
 
 | Feature | Detalhe |
 |---|---|
@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 - **React 18** — Hooks + Context API
 - **Vite 5** — Build tool com HMR instantâneo
@@ -32,7 +32,7 @@
 
 ---
 
-## 🚀 Como rodar localmente
+##  Como rodar localmente
 
 ```bash
 # 1. Clone o repositório
@@ -78,7 +78,7 @@ soundwave/
 
 ---
 
-## 🔌 Integração com Spotify Web API (roadmap)
+##  Integração com Spotify Web API (roadmap)
 
 O código foi estruturado para facilitar a migração:
 
@@ -88,12 +88,12 @@ O código foi estruturado para facilitar a migração:
 
 ---
 
-## 📄 Licença
+##  Licença
 
 MIT — sinta-se livre para usar, modificar e distribuir.
 
 ---
 
 <p align="center">
-  Feito com ☕ e muito CSS dark mode
+  Feito com JS e muito CSS dark mode
 </p>
