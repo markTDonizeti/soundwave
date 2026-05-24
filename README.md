@@ -1,9 +1,11 @@
 #  SoundWave — Premium Spotify Web Player Clone
 
 ![SoundWave Preview](./public/preview.png)
+<img width="1870" height="923" alt="Captura de tela 2026-05-24 194923" src="https://github.com/user-attachments/assets/c27f3dc8-7795-47d6-80bb-48ea9deeceef" />
 
 > Um clone premium e responsivo do Spotify Web Player, construído com **React 18**, **Vite** e **Tailwind CSS**. Projeto focado em portfólio com player de áudio 100% funcional, gerenciamento de estado global e UX idêntica ao Spotify.
 
+https://soundwave-beige.vercel.app 
 ---
 
 ##  Features
